@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5BCEFA,100:004AAD&height=200&section=header&text=성하의%20백준%20코딩%20공부&fontSize=40&fontColor=ffffff" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5BCEFA,100:004AAD&height=200&section=header&text=성하의%20코딩%20공부&fontSize=40&fontColor=ffffff" alt="header">
 </div>
 
 ## 왜 이걸 시작했냐면요...
 
-이 저장소는 저 성하가 백준(BOJ) 문제를 풀며  
+이 저장소는 저 성하가 코딩 문제를 풀며  
 **자료구조와 알고리즘의 근육을 키우는 공간**입니다.  
 풀고, 틀리고, 다시 풀고...! 그 반복 속에서 성장 중 💪  
 
@@ -17,7 +17,7 @@
 
 | 목표 | 상태 |
 |------|------|
-| 100문제 달성 | 🔄 진행 중 |
+| 1000문제 달성 | 🔄 진행 중 |
 | 자료구조 기본기 익히기 | ✅ 일부 완료 |
 | 알고리즘 분류별 마스터 | 🧠 수련 중 |
 
