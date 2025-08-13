@@ -8,7 +8,7 @@
 **자료구조와 알고리즘의 근육을 키우는 공간**입니다.  
 풀고, 틀리고, 다시 풀고...! 그 반복 속에서 성장 중 💪  
 
-  <img alt="Solved.ac" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=julle0123">
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=julle0123)](https://solved.ac/profile/julle0123)
 
 ## 사용 언어
 
